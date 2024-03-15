@@ -1,2 +1,2 @@
 # IBMCOURSE
-IBM Learning Github Course
+IBM Learning Github Course - Ready to Commit
